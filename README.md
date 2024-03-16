@@ -1,1 +1,1 @@
-The assignments I did for coursework.
+The notebooks I used for coursework.
